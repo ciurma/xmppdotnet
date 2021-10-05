@@ -1,0 +1,33 @@
+<vcard>
+    <fn>
+        <text>jabber.esiliati.org</text>
+    </fn>
+    <kind>
+        <text>application</text>
+    </kind>
+    <url>
+        <uri>https://www.esiliati.org/xmpp/</uri>
+    </url>
+    <note>
+        <text>XMPP Chat server of esiliati.org - a shelter for the exiled from social media global village</text>
+    </note>
+    <registration xmlns='urn:xmpp:vcard:registration:1'>
+        <uri>https://www.esiliati.org/account/</uri>
+    </registration>
+    <bday>
+        <date>2013</date>
+    </bday>
+    <adr>
+        <country>IT</country>
+    </adr>
+    <ca xmlns='urn:xmpp:vcard:ca:0'>
+        <name>Let’s Encrypt</name>
+        <uri>letsencrypt.org</uri>
+    </ca>
+    <name xmlns='jabber:iq:version'>Prosody</name>
+        <email><text>ciurma@esiliati.org</text></email>
+        <logo><uri>https://www.esiliati.org/img/esiliati-icon.png</uri></logo>
+        <geo>
+                <uri>geo:44.3483,11.1621</uri>
+        </geo>
+</vcard>
